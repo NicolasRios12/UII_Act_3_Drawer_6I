@@ -30,6 +30,12 @@ El menú lateral consta de 4 opciones principales distribuidas de la siguiente f
    **Tipografía** Enfoque en legibilidad con pesos `FontWeight.bold` para títulos.
 
 ---
+## Imagenes de ejecucion
+<img width="493" height="728" alt="image" src="https://github.com/user-attachments/assets/69949b10-d80d-4e23-8cca-5da8949b4560" />
+<img width="492" height="734" alt="image" src="https://github.com/user-attachments/assets/f558d600-48bb-4f77-9b10-8597b24a9a29" />
+<img width="493" height="727" alt="image" src="https://github.com/user-attachments/assets/780f0625-ed87-4fe6-8ee9-f7f446723db5" />
+<img width="490" height="730" alt="image" src="https://github.com/user-attachments/assets/db6e3365-6764-40f2-b3a9-7958474c944c" />
+<img width="492" height="734" alt="image" src="https://github.com/user-attachments/assets/f15ea87b-d6d2-4d2b-ac7b-3fa525aa1b88" />
 
 ##  Organización del Proyecto
 
