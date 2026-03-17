@@ -1,8 +1,4 @@
-# 🐾 Dog Club App - Flutter Drawer Navigation
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
+#  Dog Club App - Flutter Drawer Navigation
 Una aplicación móvil desarrollada en **Flutter** que implementa un sistema de navegación avanzado mediante un **Drawer personalizado**, rutas nombradas y una paleta de colores basada en **azules corporativos**.
 
 ---
@@ -31,12 +27,9 @@ El menú lateral consta de 4 opciones principales distribuidas de la siguiente f
 ---
 
 ## 📸 Capturas y Especificaciones Visuales
-
-| Elemento | Especificación |
-| :--- | :--- |
-| **Imágenes** | Centradas, 200x200 px, provenientes de GitHub. |
-| **Encabezado** | `UserAccountsDrawerHeader` con fondo azul y avatar blanco. |
-| **Tipografía** | Enfoque en legibilidad con pesos `FontWeight.bold` para títulos. |
+   **Imágenes** Centradas, 200x200 px, provenientes de GitHub.
+   **Encabezado** `UserAccountsDrawerHeader` con fondo azul y avatar blanco.
+   **Tipografía** Enfoque en legibilidad con pesos `FontWeight.bold` para títulos.
 
 ---
 
