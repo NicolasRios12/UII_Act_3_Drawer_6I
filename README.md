@@ -5,7 +5,7 @@
 
 * **Paleta de Colores:** Diseño personalizado utilizando `Colors.blueAccent` y variantes de azul para una interfaz limpia y profesional.
 * **Drawer Dinámico:** * Encabezado con Avatar circular (Logo de huella desde red).
-    * Información de contacto (Nombre, Dirección, Teléfono, Correo).
+    * Información de contacto (Nombre, Dirección, Teléfono, Correo). Dentro del layout
     * Menú desplegable (**ExpansionTile**) para la sección de servicios.
 * **Navegación por Rutas Nombradas:** Implementación de `routes` en `MaterialApp` para un manejo de pantallas escalable.
 * **Contenido Remoto:** Carga de imágenes optimizadas de **200x200** directamente desde repositorios de GitHub.
