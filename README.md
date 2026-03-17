@@ -1,5 +1,3 @@
-#  Dog Club App - Flutter Drawer Navigation
-Una aplicación móvil desarrollada en **Flutter** que implementa un sistema de navegación avanzado mediante un **Drawer personalizado**, rutas nombradas y una paleta de colores basada en **azules corporativos**.
 
 ---
 
