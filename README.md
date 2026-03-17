@@ -3,7 +3,7 @@ Una aplicación móvil desarrollada en **Flutter** que implementa un sistema de 
 
 ---
 
-## 🚀 Características Principales
+##  Características Principales
 
 * **Paleta de Colores:** Diseño personalizado utilizando `Colors.blueAccent` y variantes de azul para una interfaz limpia y profesional.
 * **Drawer Dinámico:** * Encabezado con Avatar circular (Logo de huella desde red).
@@ -14,26 +14,26 @@ Una aplicación móvil desarrollada en **Flutter** que implementa un sistema de 
 
 ---
 
-## 🛠️ Estructura del Menú (Drawer)
+##  Estructura del Menú (Drawer)
 
 El menú lateral consta de 4 opciones principales distribuidas de la siguiente forma:
 
-1.  👤 **Perfil**: Acceso a la información del usuario.
-2.  🛠️ **Servicios**: (Menú desplegable)
-    * 🚶 **Paseos**: Gestión de caminatas caninas.
-    * 🏠 **Hospedaje**: Reservas de estadía larga.
-    * 🎒 **Guardería**: Cuidado diario intensivo.
+1.   **Perfil**: Acceso a la información del usuario.
+2.   **Servicios**: (Menú desplegable)
+    *  **Paseos**: Gestión de caminatas caninas.
+    *  **Hospedaje**: Reservas de estadía larga.
+    *  **Guardería**: Cuidado diario intensivo.
 
 ---
 
-## 📸 Capturas y Especificaciones Visuales
+##  Capturas y Especificaciones Visuales
    **Imágenes** Centradas, 200x200 px, provenientes de GitHub.
    **Encabezado** `UserAccountsDrawerHeader` con fondo azul y avatar blanco.
    **Tipografía** Enfoque en legibilidad con pesos `FontWeight.bold` para títulos.
 
 ---
 
-## 📂 Organización del Proyecto
+##  Organización del Proyecto
 
 ```text
 lib/
