@@ -1,16 +1,54 @@
-# myapp
+# 🐾 Dog Club App - Flutter Drawer Navigation
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-## Getting Started
+Una aplicación móvil desarrollada en **Flutter** que implementa un sistema de navegación avanzado mediante un **Drawer personalizado**, rutas nombradas y una paleta de colores basada en **azules corporativos**.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Características Principales
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* **Paleta de Colores:** Diseño personalizado utilizando `Colors.blueAccent` y variantes de azul para una interfaz limpia y profesional.
+* **Drawer Dinámico:** * Encabezado con Avatar circular (Logo de huella desde red).
+    * Información de contacto (Nombre, Dirección, Teléfono, Correo).
+    * Menú desplegable (**ExpansionTile**) para la sección de servicios.
+* **Navegación por Rutas Nombradas:** Implementación de `routes` en `MaterialApp` para un manejo de pantallas escalable.
+* **Contenido Remoto:** Carga de imágenes optimizadas de **200x200** directamente desde repositorios de GitHub.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Estructura del Menú (Drawer)
+
+El menú lateral consta de 4 opciones principales distribuidas de la siguiente forma:
+
+1.  👤 **Perfil**: Acceso a la información del usuario.
+2.  🛠️ **Servicios**: (Menú desplegable)
+    * 🚶 **Paseos**: Gestión de caminatas caninas.
+    * 🏠 **Hospedaje**: Reservas de estadía larga.
+    * 🎒 **Guardería**: Cuidado diario intensivo.
+
+---
+
+## 📸 Capturas y Especificaciones Visuales
+
+| Elemento | Especificación |
+| :--- | :--- |
+| **Imágenes** | Centradas, 200x200 px, provenientes de GitHub. |
+| **Encabezado** | `UserAccountsDrawerHeader` con fondo azul y avatar blanco. |
+| **Tipografía** | Enfoque en legibilidad con pesos `FontWeight.bold` para títulos. |
+
+---
+
+## 📂 Organización del Proyecto
+
+```text
+lib/
+├── main.dart           # Configuración de rutas y tema azul
+├── drawer.dart         # Widget del Drawer personalizado
+└── pages/
+    ├── generic_page.dart  # Estructura base para las vistas
+    ├── perfil_page.dart   # Vista de Perfil
+    ├── paseos_page.dart   # Vista de Paseos
+    ├── hospedaje_page.dart # Vista de Hospedaje
+    └── guarderia_page.dart # Vista de Guardería
